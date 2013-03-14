@@ -1,0 +1,23 @@
+<wsl>
+  <waves linearOneAmp="4.0" linearOneWave="8.0" linearOnePhase="0.0" pointOneX="-8.0" pointOneY="50.0" linearTwoAmp="4.0" linearTwoWave="8.0" linearTwoPhase="0.0" pointTwoX="8.0" pointTwoY="50.0" pointOneAmp="6.0" pointOneWave="8.0" pointOnePhase="0.0" linearOneAngle="0.0" pointTwoAmp="6.0" pointTwoWave="8.0" pointTwoPhase="0.0" linearTwoAngle="0.0" play="Play" quality="Smooth" panel="Controls" LinearOneActive="false" LinearTwoActive="false" PointOneActive="true" PointTwoActive="true">
+    <view value="-0.476 -2.269E-4 0.0 0.2 -0.067 -11.244" />
+  </waves>
+  <script>
+    <actionPerformed param="play" value="Stop" timeStamp="938" />
+    <actionPerformed param="play" value="Play" timeStamp="3234" />
+    <actionPerformed param="panel" value="Point Source 1" timeStamp="1328" />
+    <actionPerformed param="pointOneX" value="-12.0" timeStamp="6375" />
+    <actionPerformed param="panel" value="Point Source 2" timeStamp="1235" />
+    <actionPerformed param="pointTwoX" value="12.0" timeStamp="3750" />
+    <actionPerformed param="panel" value="Controls" timeStamp="1718" />
+    <actionPerformed param="play" value="Stop" timeStamp="1016" />
+    <actionPerformed param="play" value="Play" timeStamp="5891" />
+    <actionPerformed param="panel" value="Point Source 1" timeStamp="953" />
+    <actionPerformed param="pointOneX" value="-16.0" timeStamp="4812" />
+    <actionPerformed param="panel" value="Point Source 2" timeStamp="1422" />
+    <actionPerformed param="pointTwoX" value="16.0" timeStamp="3500" />
+    <actionPerformed param="panel" value="Controls" timeStamp="3516" />
+    <actionPerformed param="play" value="Stop" timeStamp="859" />
+    <scriptEnded timeStamp="1500" />
+  </script>
+</wsl>

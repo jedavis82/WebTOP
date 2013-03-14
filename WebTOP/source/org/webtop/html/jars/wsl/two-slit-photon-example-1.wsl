@@ -1,0 +1,11 @@
+<wsl>
+  <twoslit wavelength="400.0" photonRate="200" slitWidth="0.04" slitDistance="0.25" exposureTime="25.0" audio="On">
+    <view value="-0.4 0.0 0.0 0.0 -2.069 -9.642" />
+  </twoslit>
+  <script>
+    <viewpointSelected value="1" timeStamp="1563" />
+    <actionPerformed param="animation" timeStamp="1312" />
+    <actionPerformed param="animation" timeStamp="25703" />
+    <scriptEnded timeStamp="25547" />
+  </script>
+</wsl>

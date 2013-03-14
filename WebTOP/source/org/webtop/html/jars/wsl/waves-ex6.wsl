@@ -1,0 +1,8 @@
+<wsl>
+  <waves linearOneAmp="4.0" linearOneWave="6.0" linearOnePhase="0.0" pointOneX="0.0" pointOneY="16.0" linearTwoAmp="4.0" linearTwoWave="6.75" linearTwoPhase="0.0" pointTwoX="0.0" pointTwoY="-16.0" pointOneAmp="4.0" pointOneWave="8.0" pointOnePhase="0.0" linearOneAngle="0.0" pointTwoAmp="4.0" pointTwoWave="8.0" pointTwoPhase="0.0" linearTwoAngle="0.0" play="Stop" quality="Smooth" panel="Controls" LinearOneActive="true" LinearTwoActive="true" PointOneActive="false" PointTwoActive="false">
+    <view value="-0.476 -2.269E-4 0.0 0.2 -0.067 -13.293" />
+  </waves>
+  <script>
+    <scriptEnded timeStamp="1266" />
+  </script>
+</wsl>
